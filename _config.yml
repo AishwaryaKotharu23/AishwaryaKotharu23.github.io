@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Aishwarya Kotharu"
+  #name             : "Aishwarya Kotharu"
   avatar           : "HeadShot-Aishwarya.jpeg"
-  bio              : "MBA Student at Cornell Tech"
+  #bio              : "MBA Student at Cornell Tech"
   location         : "New York"
   employer         :
   email            : 
@@ -100,7 +100,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "AishwaryaKotharu23"
+  linkedin         : "http://www.linkedin.com/in/aishwaryakotharu"
   orcid            : "http://orcid.org/0009-0000-0117-959X"
   pinterest        :
   soundcloud       :
