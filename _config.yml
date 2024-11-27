@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Navodita Mathur"
+title                    : "Aishwarya Kotharu"
 title_separator          : "-"
-name                     : &name "Navodita Mathur"
+name                     : &name "Aishwarya Kotharu"
 description              : &description "personal description"
-url                      : "https://Navoditamathur.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://AishwaryaKotharu23.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Navoditamathur/Navoditamathur.github.io"
+repository               : "AishwaryaKotharu23/AishwaryaKotharu23.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -94,20 +94,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Navoditamathur"
+  github           : "AishwaryaKotharu23"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "navodita-mathur"
+  linkedin         : "AishwaryaKotharu23"
   orcid            : "http://orcid.org/0009-0000-0117-959X"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "MathurNavo55627"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
